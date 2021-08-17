@@ -5,4 +5,4 @@ Tahun Pembuatan 2021
 
 Final Build
 
-LINK : COMING SOON
+https://drive.google.com/file/d/1kjvnptdp2UG9CLT_wLTpfJuRv573lvaO/view?usp=sharing
