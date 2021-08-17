@@ -1,4 +1,8 @@
-# Lost-Reality-3D-Action-Game
+# Lost Reality 3D
+Genre : 3D, Action, Adventure
+
+Game Engine : Unreal Engine 4 Version 4.25.4
+
 Project Skripsi
 
 Tahun Pembuatan 2021
